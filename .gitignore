@@ -1,2 +1,10 @@
 
 .gitattributes
+.Apple*
+.DS*
+._*
+
+*.zip
+
+*.mp4
+*.mp3
